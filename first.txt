@@ -2,3 +2,4 @@ first line
 second line
 third line
 line added in branch1
+line added in branch2
